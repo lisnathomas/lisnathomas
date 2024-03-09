@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lisna Thomas</h1>
 <h3 align="center">A passionate Automation Engineer.</h3>
 
-- 🌱 I’m currently learning **Cypress, Playwright, POSTMAN**
+- 🌱 I’m currently learning **Cypress, Playwright, Azure**
 
 - 💬 Ask me about **web automation**
 
